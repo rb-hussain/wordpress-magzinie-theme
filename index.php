@@ -1,13 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!--custom style-->
-    <link rel="stylesheet" href="assets/css/main.css">
-    <title>Document</title>
-</head>
-<body>
-    test
-</body>
-</html>
+
+<?php require ('template-parts/header.php')?>
+<section style="background-color: red;">
+   
+</section>
+<?php require ('template-parts/footer.php')?>

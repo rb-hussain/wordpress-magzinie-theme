@@ -1,0 +1,19 @@
+//Adding additional large screen breakpoints  for the grid system
+// This is a copy of the grid breakpoints & container from bootstrap-grid.scss
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1400px,
+  xxxl: 1800px
+);
+$container-max-widths: (
+  sm: 480px,
+  md: 640px,
+  lg: 960px,
+  xl: 1140px,
+  xxl: 1320px,
+  xxxl: 1600px
+);

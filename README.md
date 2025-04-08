@@ -1,0 +1,1 @@
+# wordpress-magzinie-theme

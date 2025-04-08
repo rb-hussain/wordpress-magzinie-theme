@@ -1,0 +1,19 @@
+{
+  "name": "magzine",
+  "version": "1.0.0",
+  "description": "Magzine theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "sass assets/scss/main.scss assets/css/main.css --no-source-map --style=compressed",
+    "watch": "sass --watch assets/scss/main.scss:assets/css/main.css"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.5"
+  },
+  "author": "Rabi",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.86.3"
+  }
+}
